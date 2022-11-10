@@ -4,7 +4,7 @@
     🌱 I’m also learning state managment and hooks with react.js 
     👯 I’m looking to collaborate on any API development and intergration 
         projects and learning new tech stack
-   📫 How to reach me: Email:[Twitter: @Maina__Evans](https://twitter.com/Maina__Evans) [LinkedIn: Evans Maina](https://www.linkedin.com/in/evans-maina-388494204/)
+   📫 How to reach me: Email:[Twitter: @Maina__Evans](https://twitter.com/Maina__Evans)   [LinkedIn: Evans Maina](https://www.linkedin.com/in/evans-maina-388494204/)
 
     💬 Ask me about  API development
     💬 Ask me about API intergration
