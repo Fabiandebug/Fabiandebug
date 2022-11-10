@@ -51,11 +51,10 @@
 <br>
 
 ### Waka Time Stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
 
-
- ###Git Stats
+###Git Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabiandebug&theme=algolia)
 
