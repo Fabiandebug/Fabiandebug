@@ -50,9 +50,7 @@
 <br>
 <br>
 
-### Waka Time Stats
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+
 
 ###Git Stats
 
