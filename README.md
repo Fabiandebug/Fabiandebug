@@ -6,7 +6,7 @@
     👯 I’m looking to collaborate on any API development and intergration 
         projects and learning new tech stack
    :mailbox: Reach me out!
-   [![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Maina__Evans)  [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evans-maina-388494204/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kinuthiafabiankinuthia@gmail.com)
+   [![Twitter Badge](https://img.shields.io/badge/-@Evans Maina-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Maina__Evans)](https://twitter.com/Maina__Evans)  [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evans-maina-388494204/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kinuthiafabiankinuthia@gmail.com)
   
 
     💬 Ask me about  API development
