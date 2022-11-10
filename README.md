@@ -14,7 +14,7 @@
     ⚡ Fun fact: I enjoy travelling and road trips
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabiandebug &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabiandebug&theme=radical)
 
 <!--
 **Fabiandebug/Fabiandebug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
