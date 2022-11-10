@@ -6,7 +6,8 @@
     👯 I’m looking to collaborate on any API development and intergration 
         projects and learning new tech stack
  ### Reach me
-   :mailbox: Reach me out!
+   :mailbox: Reach me!   
+   
    [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Maina__Evans)  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evans-maina-388494204/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kinuthiafabiankinuthia@gmail.com) 
 
   
