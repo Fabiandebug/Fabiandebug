@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I am Evans Maina 👋
+    🔭 I’m currently working on a water billing api,intergrated with diffrent payment methods like bank and M-pesa, working with Python Django and React.js
+    🌱 I’m also learning state managment and hooks with react.js 
+    👯 I’m looking to collaborate on any API development and intergration projects and learning new tech stack
+    📫 How to reach me: Email: kinuthiafabiankinuthia@gmail.com
+    💬 Ask me about  API development
+    💬 Ask me about API intergration
+    💬 Ask me about  FastAPI and Django
+    ⚡ Fun fact: I enjoy travelling and road trips
 
 <!--
 **Fabiandebug/Fabiandebug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
