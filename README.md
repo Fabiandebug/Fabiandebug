@@ -1,8 +1,8 @@
 ### Hi there, I am Evans Maina 👋
-    I am Full Stack Software Developer working with React and Python. I spend time learning more about software development and coding side projects
+    I am Full Stack Software Developer working with Python. I spend time learning more about software development and coding side projects
     🔭 I’m currently working on a water billing api,intergrated with diffrent payment methods
-        like bank and M-pesa, working with Python Django and React.js
-    🌱 I’m also learning state managment and hooks with react.js 
+        like bank and M-pesa, working with Python Django.
+    🌱 I’m also learning full-stack webdev with Node.js,TS,express and Angular.js 
     👯 I’m looking to collaborate on any API development and intergration 
         projects and learning new tech stack
  ### Reach me
