@@ -2,8 +2,8 @@
     I am Full Stack Software Developer working with Python. I spend time learning more about software development and coding side projects
     🔭 I’m currently working on a water billing api,intergrated with diffrent payment methods
         like bank and M-pesa, working with Python Django.
-    🌱 I’m also learning full-stack webdev with Node.js,TS,express and Angular 
-    👯 I’m looking to collaborate on any API development and intergration 
+    🌱 I’m also learning full-stack webdev with Node.js,TyopeScipt, express Reactjs and Angular 
+    👯 I’m looking to collaborate on any API development and integration 
         projects and learning new tech stack
  ### Reach me
    :mailbox: Reach me!   
@@ -17,7 +17,9 @@
  
 ### My Tech Stack
 [![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
- [![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=blue)](#)[![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](#) [![FastAPI Badge](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](#) 
+ [![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=blue)](#)[![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](#) [![FastAPI Badge](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](#) [![React Badge](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#) [![Angular Badge](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#) 
+
+
     
     
     
