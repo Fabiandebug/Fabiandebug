@@ -8,7 +8,7 @@
  ### Reach me
    :mailbox: Reach me!   
    
-   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evans-maina-388494204/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kinuthiafabiankinuthia@gmail.com) 
+   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evans-maina-388494204/)
 
    
 <!--  ### Resume/ CV
